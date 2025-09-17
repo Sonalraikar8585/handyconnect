@@ -20,9 +20,9 @@ Service providers have a separate login system, allowing them to view service re
 - Accept and manage assigned jobs.
 - Update job status upon completion.
 
-### 3. Real-Time Connection
-- Users can connect with service providers nearby.
-- Efficient job assignment and location-based matching.
+### 3. Connection
+- Users can connect with service providers .
+- Efficient job assignment matching.
 
 ---
 
@@ -46,8 +46,3 @@ Service providers have a separate login system, allowing them to view service re
 
 ---
 
-## Future Enhancements
-- Real-time chat between users and service providers.
-- Rating and review system for completed services.
-- Push notifications for new service requests.
-- Integration with payment gateways for in-app payments.
