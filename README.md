@@ -1,16 +1,53 @@
-# handyconnect_app
+# HandyConnect – Service Provider Booking Platform
 
-A new Flutter project.
+## Project Description
+**HandyConnect** is a mobile platform built using **Flutter** and **Dart** that connects users with nearby service providers such as electricians, plumbers, painters, maids, and more. Users can easily book appointments through their phone, locate nearby service providers, and hire them for specific tasks.  
 
-## Getting Started
+Service providers have a separate login system, allowing them to view service requests, accept jobs, and complete tasks efficiently. The platform simplifies the process of finding and managing home and professional services, providing a seamless experience for both users and service providers.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 1. User Features
+- Search and view nearby service providers.
+- Book appointments for various services.
+- Track service requests and status.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 2. Service Provider Features
+- Separate login system for service providers.
+- View incoming service requests.
+- Accept and manage assigned jobs.
+- Update job status upon completion.
+
+### 3. Real-Time Connection
+- Users can connect with service providers nearby.
+- Efficient job assignment and location-based matching.
+
+---
+
+## Technologies Used
+- **Frontend & Backend:** Flutter, Dart
+- **Database & Storage:** Firebase (Firestore, Authentication, Realtime updates)
+- **Platform:** Android and iOS
+
+---
+
+## How to Use
+1. Clone or download the project repository.
+2. Open the project in **Flutter-supported IDE** (like VS Code or Android Studio).
+3. Run `flutter pub get` to install dependencies.
+4. Launch the app on an emulator or physical device.
+5. Users can sign up and book services.
+6. Service providers can log in to view and manage service requests.
+
+---
+
+
+---
+
+## Future Enhancements
+- Real-time chat between users and service providers.
+- Rating and review system for completed services.
+- Push notifications for new service requests.
+- Integration with payment gateways for in-app payments.
